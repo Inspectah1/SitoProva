@@ -1,0 +1,22 @@
+<html>
+    <head>    
+        <title> la mia homepage </title>
+    </head>
+    <body>
+        <h1>homepage</h1>  <!-- appare più grande perchè h1 è l'inttestazione principale, il topic della nostra pagina-->
+        <p> ciao mondo! </p>
+        <h2> mefistofelico urlo del sium </h2>
+        <p> ciao mondo di nuovo! </p>
+        <h3> percaso ha aperto il panettiere? </h3>
+        <h4> azzì stai emettendo troppa CO <sub>2</sub></h4>
+
+        <div>
+        <i> ci siamo ragazzi, forza gialli</i> <br /><br /><br />
+        <b> ma che è successo?</b>
+        <h2> Oh no, non hai trustato il molecolare </h2>
+        <p> zio pera </p>
+             
+        </div>
+    </body>
+
+</html>
